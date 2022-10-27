@@ -1,6 +1,6 @@
 # daisy
 
-A new Flutter project.
+A new Flutter project.  Just remaking the web version of thewebmaker.it/daisy
 
 ## Getting Started
 
